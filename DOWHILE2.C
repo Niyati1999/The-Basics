@@ -30,7 +30,7 @@ void main()
 		{
 			printf("\nInvalid choice!!\n");
 		}
-	}while(n!=0);
+	}while(n!=3);
 	getch();
 }
 
